@@ -23,7 +23,7 @@ In `docs` there are some documents which may be useful for you to read.
 From `Project_Machine_Learning_Algorithms/ReactionRateCoefficientsRegression/DR/src` run:
 
 ~~~~~
-run_regression.sh
+./run_regression.sh
 ~~~~~
 
 This will learn one vibrational level at the time.
@@ -31,7 +31,7 @@ This will learn one vibrational level at the time.
 Otherwise,
 
 ~~~~~
-run_regression_multioutput.sh
+./run_regression_multioutput.sh
 ~~~~~
 
 This will learn all the dataset at once.
